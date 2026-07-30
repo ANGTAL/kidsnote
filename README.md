@@ -1,5 +1,4 @@
 파이어폭스 확장기능에 등록된 기능의 소스입니다.
-
 이 확장 프로그램은 키즈노트(kidsnote.com)의 로그인된 세션에서 작동하며, 사용자의 선택된 날짜 범위 내에서 알림장 및 앨범의 이미지/동영상 URL을 추출하여 다운로드합니다.
 
 https://addons.mozilla.org/ko/firefox/addon/%ED%82%A4%EC%A6%88%EB%85%B8%ED%8A%B8-%EC%82%AC%EC%A7%84-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%8D%94/
